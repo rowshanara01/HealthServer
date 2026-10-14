@@ -4,8 +4,6 @@
 
 ---
 
-#### Postman API Documentation: https://documenter.getpostman.com/view/26694209/2s9YynmjXH
-
 ```
 Health_Care_Server
 ├─ .env
