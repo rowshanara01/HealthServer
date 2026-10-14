@@ -1,0 +1,55 @@
+1. User module
+* By user module we create admin, doctor, patient
+* get all data 
+* pagination, searching, sorting, filtering
+
+2. User module
+* meta data
+* get data by id  
+* update
+* delete
+* soft delete
+
+3. middleware, authentication
+
+* validate request middleware
+* global error handler
+* global error handler
+
+** authentication
+** login, access token, refresh token, verify token
+** change pass, reset pass
+
+4. 
+* file upload with multer and store Cloudinary
+** doctor module: create doctor as user, get all user with filtering, get profile information
+** updateing user status 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
